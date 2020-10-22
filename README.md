@@ -15,4 +15,4 @@ Use `git clone --recursive` to clone base project and submodules
 
 - Edit `decent.bat` and make sure `de1plus.tcl` has correct path
 
-- Run `decent.bat` from command line
+- Run `decent.bat` from command line to open app
